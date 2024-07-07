@@ -25,7 +25,7 @@
 3. **Play**: Open your browser and navigate to `http://localhost:3000` to play the game.
 4. **Enjoy**: Have fun playing Tic Tac Toe with different grid sizes! 🎉
 
-## Technologies Used
+## Tech Used
 
 - React
 - TypeScript
