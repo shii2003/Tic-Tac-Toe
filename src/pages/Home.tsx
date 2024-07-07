@@ -27,6 +27,7 @@ const Home: React.FC = () => {
         setBlockSize(size);
         setMarker(Array(size * size).fill(null));
         setWinner(null);
+        setSelectedMarker(null);
     }
     const handleBlockClick = (index: number) => {
         if (marker[index] === null && currentTurn != null) {
